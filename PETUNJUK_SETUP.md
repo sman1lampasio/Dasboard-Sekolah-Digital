@@ -67,12 +67,3 @@ Panduan ini memandu Anda menghubungkan Dashboard Sekolah Digital dengan Google S
 
 Selamat! Dashboard Digital SMA Negeri 1 Lampasio sekarang telah sepenuhnya terhubung secara real-time ke Google Spreadsheet sekolah Anda! 🎉
 
----
-
-### Akun Login Bawaan:
-- **Admin**: `admin` / Password: `admin123`
-- **Guru**: `guru` / Password: `guru123`
-- **Bimbingan Konseling (BK)**: `bk` / Password: `bk123`
-- **Petugas Perpustakaan**: `perpus` / Password: `perpus123`
-
-*(Anda dapat menambah atau mengubah akun pengguna di sheet `Pengguna` pada Google Spreadsheet).*

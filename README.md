@@ -40,40 +40,12 @@ Aplikasi web modern, responsif, dan interaktif untuk portal sekolah digital **SM
 
 ---
 
-## 🚀 Cara Menjalankan & Mengaktifkan GitHub Pages
-
-Aplikasi ini 100% berbasis client-side HTML5/CSS3/JavaScript dengan backend Google Apps Script. Anda dapat langsung meng-online-kannya menggunakan **GitHub Pages**:
-
-1. Buka halaman repositori ini di GitHub: [https://github.com/sman1lampasio/Dasboard-Sekolah-Digital](https://github.com/sman1lampasio/Dasboard-Sekolah-Digital)
-2. Klik tab **Settings** (Pengaturan repositori).
-3. Di bilah samping kiri, pilih menu **Pages**.
-4. Pada bagian **Build and deployment** &rarr; **Branch**:
-   - Pilih branch: **`main`**
-   - Pilih folder: **`/(root)`**
-   - Klik tombol **Save**.
-5. Tunggu sekitar 1-2 menit, GitHub akan menampilkan alamat website Anda, misalnya:
-   `https://sman1lampasio.github.io/Dasboard-Sekolah-Digital/`
-
----
-
 ## ⚙️ Menghubungkan ke Google Spreadsheet
 
 Untuk menghubungkan formulir input dan data tautan ke Google Spreadsheet sekolah Anda, ikuti langkah mudah pada:
 👉 **[PETUNJUK_SETUP.md](./PETUNJUK_SETUP.md)**
 
 ---
-
-## 🔑 Akun Login Bawaan
-
-| Role | Username | Password |
-| :--- | :--- | :--- |
-| **Administrator** | `admin` | `admin123` |
-| **Dewan Guru** | `guru` | `guru123` |
-| **Bimbingan Konseling** | `bk` | `bk123` |
-| **Petugas Perpustakaan** | `perpus` | `perpus123` |
-
-*Password dan akun dapat ditambahkan atau diubah kapan saja di Google Sheets.*
-
 ---
 
 ## 📁 Struktur Direktori

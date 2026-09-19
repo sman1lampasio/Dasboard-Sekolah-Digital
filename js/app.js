@@ -315,7 +315,7 @@ function updateConnectionStatusUI() {
     text.textContent = 'Mode Lokal (Belum Terhubung)';
   } else {
     dot.className = 'w-2.5 h-2.5 rounded-full bg-emerald-500 pulse-dot';
-    text.textContent = 'Sheets Terhubung';
+    text.textContent = 'Cloud Terhubung';
   }
 }
 
